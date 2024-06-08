@@ -1,11 +1,11 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Sourav Mukherjee</h1>
-<h3 align="center">An undergrad passionate developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravm1&label=Profile%20views&color=0e75b6&style=flat" alt="souravm1" /> </p>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **22souravmukherjee@gmail.com**
 
